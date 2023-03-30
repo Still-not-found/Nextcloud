@@ -261,6 +261,8 @@ Finally, if you are running a firewall (which you should!), you will need to all
 sudo ufw allow 465
 ```
  Congratulations, you should now have a working version of Nextcloud Hub version 25 up and running!
+ 
+ #### Note: For Installing Nextcloud Talk High Perfrmance Backend please go to https://github.com/Still-not-found/Nextcloud-Talk-HighPerformance
 
 
 
